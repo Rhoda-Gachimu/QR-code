@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.info{
+text-align: center;
+padding-bottom: 5%;
+padding-left: 1%;
+}
+
+.info h2 {
+    font-family: "Outfit";
+    font-weight: 700px;  
+    font-size: 20px;
+    color:hsl(218, 44%, 22%)
+  }
+
+.info p{
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 45%, 40%);
+}
+
+
+.main{
+    background-color:hsl(0, 0%, 100%);
+    display: inline-block;
+    border: 5px solid white;
+    margin: 20px;
+    margin-left: 40%;
+    margin-top: 8%;
+    border-radius: 5%;
+    
+}
+
+img{
+
+    padding-top: 1%;
+    margin: 5px;
+    border-radius: 10%;
+}
+
